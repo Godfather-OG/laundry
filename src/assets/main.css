@@ -1,0 +1,14 @@
+/* use Karla and Kanit font all weight from google */
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700|Kanit:400,700');
+
+body, html {
+    font-family: 'Kanit', Karla, sans-serif !important;
+}
+
+.main-theme-color {
+    color: #26afe4 !important;
+}
+
+.main-theme-bg-color {
+    background: #26afe4 !important;
+}
