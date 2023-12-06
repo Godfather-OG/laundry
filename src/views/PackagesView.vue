@@ -36,8 +36,8 @@
           <div class="d-none d-md-block" style="height: 280px"></div>
         </div>
         <div class="col-12 col-md-8 h-100 my-auto">
-          <h1>ยากที่จะตัดสินใจ</h1>
-          <h1>อะไรดีที่สุดสำหรับคุณ?</h1>
+          <h1 style="font-size: 55px;">ยากที่จะตัดสินใจ</h1>
+          <h1 style="font-size: 55px;">อะไรดีที่สุดสำหรับคุณ?</h1>
 
           <div class="btn bg-white rounded-pill p-2 mt-2">เรียนรู้เพิ่มเติม</div>
         </div>
