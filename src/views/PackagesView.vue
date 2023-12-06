@@ -1,6 +1,7 @@
 <template>
   <div class="jumbotron py-3" style="background: #fafafa">
     <div class="container text-center">
+      <div style="min-height: 5dvh;"></div>
       <h4 class="main-theme-color">HOW IT WORK</h4>
       <h1 class="mb-5">ทำเสร็จใน 4 ขั้นตอน</h1>
 
@@ -21,14 +22,16 @@
     </div>
   </div>
   <div class="container text-center py-5">
+    <div style="min-height: 5dvh;"></div>
     <h4 class="main-theme-color">HOW IT WORK</h4>
     <h1 class="mb-5">บริการและแพ็กเกจ</h1>
 
     <img :src="packages" class="w-100" alt="" />
-
+    <div style="min-height: 5dvh;"></div>
     <div class="card main-theme-bg-color pick-me" style="margin-top: 8em">
       <div class="row h-100">
         <div class="col-12 col-md-4">
+          
           <img :src="thinking" class="think" alt="" />
           <div class="d-none d-md-block" style="height: 280px"></div>
         </div>

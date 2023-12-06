@@ -39,9 +39,9 @@
       </div>
       <div class="col-12 col-md-3">
         <div class="card">
-          <div class="card-header  card-pri color-success" style="background-color: #4CC764;color: #ffffff;">LINE</div>
+          <div class="card-header  card-pri color-success" style="background-color: #4CC764;color: #ffffff;"><b>LINE</b></div>
           <div class="card-body">
-            <div class="notifications">
+            <div class="notifications" style="background-color: #F0F0F0;">
               <div v-for="(notification, index) in notify" :key="index" class="notification">
                 <p>{{ notification.context }}</p>
                 <small>{{ notification.time.toLocaleString() }}</small>

@@ -7,7 +7,7 @@
             <h1 style="font-weight: 600">อยาก<span class="mx-1 hilight-title">ซัก</span>ไหม?</h1>
             <h1 style="font-weight: 600">
               แต่<span class="mx-1 hilight-title">ไม่มีเวลา</span>ซัก?
-              <div style="min-height: 1dvh;"></div>
+              <div style="min-height: dvh;"></div>
             </h1>
             <p class="text-muted">
               แค่ส่งมาให้เรา<b>ซัก</b> คุณก็สามารถไป<b>ทำธุระหรือกิจกรรมอื่น ๆ</b><br />
@@ -26,6 +26,7 @@
           </div>
         </div>
         <div class="col-md-6 text-end">
+          <div style="min-height: 5dvh;"></div>
           <img :src="img_select" />
         </div>
       </div>
